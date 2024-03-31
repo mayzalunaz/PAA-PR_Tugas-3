@@ -1,0 +1,127 @@
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\appsettings.Development.json
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\appsettings.json
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\PercobaanApi1.exe
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\PercobaanApi1.deps.json
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\PercobaanApi1.runtimeconfig.json
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\PercobaanApi1.dll
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\PercobaanApi1.pdb
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.csproj.AssemblyReference.cache
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.AssemblyInfoInputs.cache
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.AssemblyInfo.cs
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.csproj.CoreCompileInputs.cache
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.MvcApplicationPartsAssemblyInfo.cs
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.MvcApplicationPartsAssemblyInfo.cache
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\staticwebassets\msbuild.PercobaanApi1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\staticwebassets\msbuild.build.PercobaanApi1.props
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PercobaanApi1.props
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PercobaanApi1.props
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\staticwebassets.build.json
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\staticwebassets.development.json
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\scopedcss\bundle\PercobaanApi1.styles.css
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.csproj.CopyComplete
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.dll
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\refint\PercobaanApi1.dll
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.pdb
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.genruntimeconfig.cache
+D:\visual studio\PercobaanApi1\obj\Debug\net6.0\ref\PercobaanApi1.dll
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\Npgsql.dll
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\System.Text.Json.dll
+D:\visual studio\PercobaanApi1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\appsettings.Development.json
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\appsettings.json
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\PercobaanApi1.exe
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\PercobaanApi1.deps.json
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\PercobaanApi1.runtimeconfig.json
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\PercobaanApi1.dll
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\PercobaanApi1.pdb
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\Npgsql.dll
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\System.Text.Json.dll
+D:\visual studio\PAA\Modul 2\PercobaanApi1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.csproj.AssemblyReference.cache
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.AssemblyInfoInputs.cache
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.AssemblyInfo.cs
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.csproj.CoreCompileInputs.cache
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.MvcApplicationPartsAssemblyInfo.cs
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.MvcApplicationPartsAssemblyInfo.cache
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\staticwebassets\msbuild.PercobaanApi1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\staticwebassets\msbuild.build.PercobaanApi1.props
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PercobaanApi1.props
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PercobaanApi1.props
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\staticwebassets.build.json
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\staticwebassets.development.json
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\scopedcss\bundle\PercobaanApi1.styles.css
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.csproj.CopyComplete
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.dll
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\refint\PercobaanApi1.dll
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.pdb
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.genruntimeconfig.cache
+D:\visual studio\PAA\Modul 2\PercobaanApi1\obj\Debug\net6.0\ref\PercobaanApi1.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\appsettings.Development.json
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\appsettings.json
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\PercobaanApi1.exe
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\PercobaanApi1.deps.json
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\PercobaanApi1.runtimeconfig.json
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\PercobaanApi1.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\PercobaanApi1.pdb
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\JWT.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\Npgsql.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\System.Text.Json.dll
+D:\VSCode\PercobaanApi1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.csproj.AssemblyReference.cache
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.AssemblyInfoInputs.cache
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.AssemblyInfo.cs
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.csproj.CoreCompileInputs.cache
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.MvcApplicationPartsAssemblyInfo.cs
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.MvcApplicationPartsAssemblyInfo.cache
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\staticwebassets\msbuild.PercobaanApi1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\staticwebassets\msbuild.build.PercobaanApi1.props
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PercobaanApi1.props
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PercobaanApi1.props
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\staticwebassets.build.json
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\staticwebassets.development.json
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\scopedcss\bundle\PercobaanApi1.styles.css
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.csproj.CopyComplete
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.dll
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\refint\PercobaanApi1.dll
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.pdb
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\PercobaanApi1.genruntimeconfig.cache
+D:\VSCode\PercobaanApi1\obj\Debug\net6.0\ref\PercobaanApi1.dll
