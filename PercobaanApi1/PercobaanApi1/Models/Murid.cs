@@ -2,9 +2,9 @@
 {
     public class Murid
     {
-        public int id_murid { get; set; } //ex : 1, 2, ...
+        public int id_murid { get; set; } 
         public string nama { get; set; }
-        public string kelas { get; set; } //ex : 10 MIPA 2, 12 IPS 4, ...
+        public string kelas { get; set; } 
         public string alamat { get; set; }
         public string email { get; set; }
         public string username { get; set; }
